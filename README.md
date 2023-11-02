@@ -11,7 +11,7 @@ The "NLP Analysis of Consumer Complaints" repository contains the code and data 
 
 ## Usage
 To use the application follow the steps:
-1. Change the variable `nlp_method` to either "tfidf_lda" to apply tf-idf and lda or "Bertopic" to apply the BERTopic pipeline
+1. Change the variable `nlp_method` to either `tfidf_lda` to apply tf-idf and lda or `Bertopic` to apply the BERTopic pipeline
 2. In the terminal execute the command `py main.py`
    
 ## Requirements
